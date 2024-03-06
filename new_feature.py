@@ -1,1 +1,1 @@
-new_feature = 320
+new_feature = 32000
